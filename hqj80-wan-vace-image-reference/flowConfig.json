@@ -18,6 +18,13 @@
       "key": "image",
       "label": "File Image",
       "nodePath": "277.inputs.image"
+    },
+    {
+      "id": "dropdownh6e73i",
+      "url": "UNETLoader",
+      "key": "unet_name",
+      "label": "Model",
+      "nodePath": "257.inputs.unet_name"
     }
   ],
   "steppers": [
